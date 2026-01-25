@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036169590025",
+    "project_id": "music-player2-10fbb",
+    "storage_bucket": "music-player2-10fbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036169590025:android:353de3fd7cae554f04cfd8",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTT4CYU1XzaUFhvJzf4MUM2w7Rt09gxK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
